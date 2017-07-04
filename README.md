@@ -4,6 +4,8 @@ RubyTetris
 One of my more interesting homeworks where we had to extend traditional tetris
 from an existing bare bones version, built with the TK library. Pretty fun.
 
+![](https://media.giphy.com/media/5PQZxkTJNRbCo/giphy.gif)
+
 *To build:*
 -----------
 - Get RVM. This tells you how to do it:
